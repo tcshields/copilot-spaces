@@ -75,7 +75,63 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
-## How these personas are used in the exercise
-- Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
-- Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+## Release Manager
 
+### Role Summary:
+Oversees planning, coordination, and execution of releases. Works with PM, Developers, and QA to ensure release quality and adherence to process.
+
+### Responsibilities:
+- Schedule releases
+- Coordinate rollout and rollback
+- Communicate release status
+- Maintain release notes
+
+### Interactions:
+Works closely with PM, QA, and Developers to align timelines and quality standards.
+
+---
+
+## QA Lead
+
+### Role Summary:
+Owns the end-to-end quality processes for the project. Sets standards for testing, defines acceptance criteria, and coordinates manual/automated testing efforts.
+
+### Responsibilities:
+- Develop test plans
+- Oversee execution
+- Triage bugs
+- Report on quality metrics
+
+### Interactions:
+Collaborates with PM, Developers, and Release Manager.
+
+--- 
+
+## UX Designer
+
+### Role Summary:
+Ensures the user experience is well designed and consistent with goals, working from requirements through final validation.
+
+### Responsibilities:
+- Create wireframes
+- Validate user flows
+- Gather feedback
+- Ensure accessibility
+
+### Interactions:
+Works with PdM, Developers, QA, and stakeholders to align on product vision and usability.
+
+---
+
+## Technical Writer
+
+### Role Summary:
+Documents processes, features, and user-facing materials to ensure clarity and knowledge sharing.
+
+### Responsibilities:
+- Maintain process docs
+- Write user guides
+- Review content for accuracy
+
+### Interactions:
+Supports all roles by ensuring documentation is up to date and accessible.
